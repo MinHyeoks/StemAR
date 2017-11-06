@@ -1,0 +1,71 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 06.11.2017 22:16:44
+
+newmtl watch_mlt
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\h\Desktop\??\WATCH.jpg
+	map_Kd C:\Users\h\Desktop\??\WATCH.jpg
+	map_Ke C:\Users\h\Desktop\??\WATCHA.jpg
+
+newmtl 04___Default
+	Ns 35.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.0000 0.0000 0.0000
+	Ks 0.6390 0.6390 0.6390
+	Ke 0.0000 0.0000 0.0000
+
+newmtl power_butten_nolight_mlt
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\h\Desktop\??\butten_0_tex.png
+	map_Kd C:\Users\h\Desktop\??\butten_0_tex.png
+
+newmtl famile_butten_nolight_mlt
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\h\Desktop\??\butten_1_tex.png
+	map_Kd C:\Users\h\Desktop\??\butten_1_tex.png
+
+newmtl alram_butten_nolight_mlt
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\h\Desktop\??\butten_2_tex.png
+	map_Kd C:\Users\h\Desktop\??\butten_2_tex.png
